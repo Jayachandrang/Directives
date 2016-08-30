@@ -1,3 +1,4 @@
+/* Directive for Modal window */
 angular.module('portalApp').directive('displayNote', function(portalUI, $rootScope) {
     return {
         restrict: 'E',
